@@ -1,0 +1,10 @@
+## Interface: 90002
+## Title: TiystTools
+## Notes: Yes.
+## Author: tiyst
+## Version: 0.1
+## SavedVariables: wowTiystDB
+# Dependencies: LibStub, !LibUIDropDownMenu
+# RequiredDeps: Ace3
+
+TiystTools.lua
